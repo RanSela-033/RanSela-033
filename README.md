@@ -30,7 +30,7 @@ I thrive at the intersection of **code, data, and people**, always aiming to bui
 ## 🏗️ Projects
 
 - 🔍 **[SkillBridge](https://github.com/RanSela-033/Skill-Bridge_AI_tool)** – Recommending upskilling courses based on user's skill gaps & job market demand (NER + Cohere API)
-- ⚽ **[Aggression in the Premier League] (TBD)** – Time series modeling of aggression metrics, referee bias & crowd effects
+- ⚽ **[Aggression in the Premier League](https://github.com/RanSela-033/Premier-League-Aggression)** – Time series modeling of aggression metrics, referee bias & crowd effects
 - 📦 **Glassdoor NER Pipeline** – Built a robust Named Entity Recognition system to extract skills & job requirements from thousands of job posts
 - 📊 **Advanced Econometrics** – Regression modeling, distribution fitting, and exploratory analysis using R
 
